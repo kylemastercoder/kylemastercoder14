@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Human Resource Management System",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Kyle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kyle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kyle is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Kyle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kyle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kyle is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Kyle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kyle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kyle is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Kyle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kyle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kyle is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Kyle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Kyle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Kyle is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -180,8 +180,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Mobile App Dev - Kyle Tech",
+    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native and Flutter.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    href: "https://github.com/kylemastercoder/kylemastercoder14",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/fb.svg",
+    href: "https://www.facebook.com/kyleandre.lim29/",
   },
   {
     id: 3,
     img: "/link.svg",
+    href: "https://www.linkedin.com/in/kyle-andre-lim-b528bb287/",
   },
 ];
